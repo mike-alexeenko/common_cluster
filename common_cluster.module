@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Common Cluster feature.
+ */
+
+include_once 'common_cluster.features.inc';
